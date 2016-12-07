@@ -1,0 +1,7 @@
+account.key
+archives.txt
+cache
+downloads
+*.sublime-project
+*.sublime-workspace
+.DS_Store
