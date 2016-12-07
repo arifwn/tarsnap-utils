@@ -1,7 +1,7 @@
 account.key
 archives.txt
-cache
-downloads
+cache/
+downloads/
 *.sublime-project
 *.sublime-workspace
 .DS_Store
